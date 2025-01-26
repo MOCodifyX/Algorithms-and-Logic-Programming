@@ -44,8 +44,5 @@ int main()
             cout << nomes[i] << endl;
         }
     }
-
-
-as
     return 0;
 }
