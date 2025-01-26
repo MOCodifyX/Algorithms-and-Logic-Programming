@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+packages/
+*.log
+*.tmp
+*.bak
+*.csproj.user
+*.csproj.tmp
